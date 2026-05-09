@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-7.xhtml">
+		<ignore code="t-005">
+			<line>11</line>
+			<line>12</line>
+			<reason>Matched text is not a newspaper.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
